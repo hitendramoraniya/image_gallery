@@ -1,16 +1,10 @@
 # image_gallery
 
-A new Flutter project.
+Image gallery app which list the images from a network with pagination.
+GetX, MVVM, Lazy loading.
 
-## Getting Started
+<img width="1677" alt="Screenshot 2024-10-05 at 3 41 03 AM" src="https://github.com/user-attachments/assets/689b5677-2912-406e-9a16-0c028ff9cd37">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
